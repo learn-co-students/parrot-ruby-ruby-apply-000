@@ -2,5 +2,5 @@
 # returns the phrase
 def parrot(what_to_say="Squawk!")
   puts what_to_say
-  return what_to_say
+  what_to_say
 end
