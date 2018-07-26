@@ -17,4 +17,5 @@ def parrot(string="Squawk!")
   if "#{string}"
     puts "#{string}"
     return "#{string}"
+  end
 end
