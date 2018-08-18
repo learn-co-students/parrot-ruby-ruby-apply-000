@@ -1,4 +1,4 @@
-# Parrot
+ {# Parrot
 
 ## Objectives
 1. Define a method that accepts arguments.
