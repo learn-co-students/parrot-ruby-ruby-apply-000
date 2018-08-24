@@ -2,10 +2,11 @@
 # returns the phrase
 
 def parrot(string)
-  if{
-    
+  if string = ""
+    puts "Squawk!"
+ else   
     puts string
   string
 end
 
-parrot("Squawk!")
+parrot()
