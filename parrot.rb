@@ -2,7 +2,9 @@
 # returns the phrase
 
 def parrot(string)
-  if{puts string
+  if{
+    
+    puts string
   string
 end
 
