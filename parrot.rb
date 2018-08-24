@@ -10,4 +10,4 @@ def parrot(string)
 end
 end
 
-parrot()
+parrot("")
