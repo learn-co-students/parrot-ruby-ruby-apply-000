@@ -3,6 +3,6 @@
 
 
 def parrot(word = "Squawk!")
-puts "#{word}"
+puts word
 word
 end
