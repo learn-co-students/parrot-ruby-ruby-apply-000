@@ -5,8 +5,3 @@ def parrot()
   puts "Squawk!"
   return "Squawk"
 end
-
-def parrot(quote)
-  puts quote
-  return quote
-end
