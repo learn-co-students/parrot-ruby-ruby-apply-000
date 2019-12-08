@@ -1,2 +1,11 @@
-# Create method `parrot` that outputs a given phrase and
-# returns the phrase
+def parrot(says)
+    if says.length > 0 
+      puts "pretty bird!"
+    else
+      "squawk!"
+end  
+  return says
+end
+
+return parrot()
+return parrot("poly")
