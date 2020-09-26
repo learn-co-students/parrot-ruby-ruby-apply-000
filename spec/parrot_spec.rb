@@ -8,7 +8,7 @@ describe '#parrot' do
   end
 
   it 'should return the default phrase, "Squawk!" when called without any arguments' do
-    phrase = parrot
+    phrase = parrot 
     expect(phrase).to eq("Squawk!")
   end
 
