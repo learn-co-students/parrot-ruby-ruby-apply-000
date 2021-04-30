@@ -6,6 +6,11 @@ describe '#parrot' do
     expect($stdout).to receive(:puts).with("Squawk!")
     parrot
   end
+  
+  def method(parrot)
+    parrot=("Squawk!")
+    
+  end
 
   it 'should return the default phrase, "Squawk!" when called without any arguments' do
     phrase = parrot
