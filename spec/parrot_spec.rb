@@ -23,3 +23,8 @@ describe '#parrot' do
     expect(phrase).to eq("Pretty bird!")
   end
 end
+phrase = parrot("Pretty Bird!")
+
+parrot (phrase)
+parrot ("Pretty bird!")
+
